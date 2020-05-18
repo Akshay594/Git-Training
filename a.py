@@ -6,3 +6,7 @@ def calc(x, y):
 
 def mul(x, y):
 	return x*y
+
+
+def ops(*args):
+	return sum(args)
