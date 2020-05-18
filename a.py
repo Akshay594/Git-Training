@@ -3,3 +3,6 @@ def add(x, y):
 
 def calc(x, y):
 	return x*y
+
+def mul(x, y):
+	return x*y
